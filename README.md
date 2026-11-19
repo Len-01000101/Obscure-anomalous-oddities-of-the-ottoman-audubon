@@ -10,4 +10,5 @@
 </h2>
 &emsp;&emsp;Brainfuck was never made as a practical language, but it did have a purpose! <br>
 It was originally designed for Turing machines as it can't process data on it's own. <br>
-While Brainfuck was designed to be --and quite frankly is-- quite counterintuitive, it does have it's fair share of uses similarly to filetypes like <code>.md</code> and more!
+While Brainfuck was designed to be --and quite frankly is-- quite counterintuitive, it does have it's fair share of uses similarly to filetypes like <code>.md</code> and more! <br>
+But again, far less intuitive...
